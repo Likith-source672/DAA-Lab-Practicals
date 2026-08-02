@@ -8,8 +8,8 @@ This repository contains the practical implementations, algorithms, Jupyter note
 
 ## 👨‍🎓 Student Information
 
-- **Name:** VENKATA SHARATH KUMAR JAKKI
-- **Enrollment No.:** 92460118301
+- **Name:** Tella Likith Krishna Yadav
+- **Enrollment No.:** 92460118245
 - **Course:** B.Tech – Artificial Intelligence & Machine Learning
 - **Subject:** Data Analysis and Algorithms (DAA)
 
@@ -115,7 +115,7 @@ Through these practicals, I gained knowledge of:
 
 ## 📌 Author
 
-**VENKATA SHARATH KUMAR JAKKI**
+**Tella Likith Krishna Yadav**
 
 B.Tech – Artificial Intelligence & Machine Learning
 
